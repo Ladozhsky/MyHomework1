@@ -7,8 +7,8 @@ function sum(a, b) {
 
 console.log(sum(x, y));
 
-let temp1 = 50;
-let temp2 = 40;
+let temp1 = 1000;
+let temp2 = 12;
 
 function diff(c, d) {
     return c - d;
