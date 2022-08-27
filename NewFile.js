@@ -1,5 +1,5 @@
-let x = 77;
-let y = 88;
+let x = 5;
+let y = 10;
 
 function sum(a, b) {
     return a + b;
@@ -16,4 +16,4 @@ function diff(c, d) {
 
 console.log(diff(temp1, temp2));
 
-// main 
+// changes
