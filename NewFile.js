@@ -1,5 +1,5 @@
-let x = 0;
-let y = 1;
+let x = 5;
+let y = 10;
 
 function sum(a, b) {
     return a + b;
@@ -7,11 +7,13 @@ function sum(a, b) {
 
 console.log(sum(x, y));
 
-let temp1 = 100;
-let temp2 = 1;
+let temp1 = 50;
+let temp2 = 40;
 
 function diff(c, d) {
     return c - d;
 }  
 
 console.log(diff(temp1, temp2));
+
+// changes
